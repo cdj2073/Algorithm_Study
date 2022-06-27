@@ -15,6 +15,7 @@ result += count * first
 result += (m - count) * second
 
 print(result)
+
 '''
 # 단순하게 푸는 방법 => M의 크기가 100억 이상처럼 커진다면 time out
 result = 0
